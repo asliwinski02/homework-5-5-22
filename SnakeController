@@ -1,0 +1,30 @@
+import Snake from "./Snake.ts";
+import WorldModel from "./WorldModel.ts";
+
+SnakeController {
+  worldModel(): void
+  slithered(): void
+
+  turnSnakeLeft{
+    display(turnLeft);
+
+  turnSnakeRight{
+    display(turnRight)
+  }
+  }
+}
+
+public class snakePosition{
+  private String name;
+
+  public String getSnakePoisition(){
+    return Snake's Position;
+  }
+}
+public class worldWidth {
+  return width;
+
+public class worldHeight {
+  return height;
+}
+}
